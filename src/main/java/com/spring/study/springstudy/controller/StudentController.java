@@ -26,7 +26,7 @@ public class StudentController {
         return service.insertStudent(name, major);
     }
 
-    @RequestMapping(value="test/findByName")
+    @RequestMapping(value="/test/findByName")
     public Student findStudentByName(String name){
         return service.findStudentByName(name);
     }
