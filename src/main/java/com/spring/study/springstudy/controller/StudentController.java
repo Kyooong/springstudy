@@ -28,6 +28,6 @@ public class StudentController {
 
     @RequestMapping(value="/test/findByName")
     public Student findByStudentName(String name){
-        return service.findStudentByName(name);
+        return service.findByStudentName(name);
     }
 }
