@@ -1,6 +1,6 @@
 package com.spring.study.springstudy.repository;
 
-import com.spring.study.springstudy.dto.Student;
+import com.spring.study.springstudy.entities.Student;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

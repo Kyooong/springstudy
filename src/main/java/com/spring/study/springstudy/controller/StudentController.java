@@ -1,6 +1,6 @@
 package com.spring.study.springstudy.controller;
 
-import com.spring.study.springstudy.dto.Student;
+import com.spring.study.springstudy.entities.Student;
 import com.spring.study.springstudy.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;

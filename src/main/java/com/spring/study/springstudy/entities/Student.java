@@ -1,4 +1,4 @@
-package com.spring.study.springstudy.dto;
+package com.spring.study.springstudy.entities;
 
 import lombok.*;
 
