@@ -4,5 +4,5 @@ import com.spring.study.springstudy.dto.Student;
 
 public interface StudentService {
     public String insertStudent(String name, String major);
-    public Student findStudentByName(String name);
+    public Student findByStudentName(String name);
 }
